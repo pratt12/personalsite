@@ -1,0 +1,100 @@
+body{
+  margin:0;
+  color:#40514e;
+  text-align: center;
+  font-family: 'Andika New Basic', sans-serif;
+}
+p{
+  width:40%;
+  margin: auto;
+  line-height: 2;
+}
+hr{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px,auto;
+}
+
+h1{
+  font-size: 565%;
+  bottom: 50px;
+  margin:0px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  color:#66bfbf;
+  font-size: 2.5rem;
+  margin-top: 0;
+  padding: 10px;
+  font-weight: normal;
+}
+h3{
+  color:#11999e;
+
+}
+
+
+.top{
+  position: relative;
+  background-color:#EAF6F6;
+  padding-top: 90px;
+
+}
+
+.middle{
+  background-color: #fcf8e8;
+
+}
+.bottom{
+  background-color:#66BFBF;
+  color:#11999E;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top{
+  color:#66bfbf;
+
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row2{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: right;
+  line-height: 2;
+}
+
+
+.proofi{
+  border-radius: 90%;
+  height: 15%;
+  width:15%;
+}
+
+
+.lapps{
+    border-radius: 100%;
+    width:20%;
+    float: left;
+    margin-right: 30px;
+}
+.chess{
+  width: 20%;
+   float: right;
+  margin-right: 30px;
+  border-radius: 100%;
+  /* background-color:#d8ac9c; */
+}
